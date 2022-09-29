@@ -1,0 +1,16 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.0",
+  "description": "primera entrega PF CH curso React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^18.2.0",
+    "webpack": "^5.74.0"
+  }
+}

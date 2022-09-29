@@ -1,0 +1,8 @@
+div{
+    background-color: rgb(213, 230, 235);
+    display: block;
+    text-align:center ;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
